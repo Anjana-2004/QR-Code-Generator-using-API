@@ -1,7 +1,5 @@
 
 
----
-
 ````markdown
 # 🚀 QR Code Generator using API
 
