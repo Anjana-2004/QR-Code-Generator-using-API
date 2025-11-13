@@ -1,4 +1,5 @@
 # QR Code Generator using API
+**![Frontend Screenshot](frontend.png)**
 
 This project is a lightweight, front-end web application that generates QR codes dynamically using a public API.  
 It is built entirely with HTML, CSS, and JavaScript, requiring no backend services. The application enables users to create QR codes instantly by entering text or URLs, which are then processed and rendered in real time.
